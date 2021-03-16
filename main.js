@@ -22,7 +22,7 @@ function changeDinoWidth(){
 
 document.querySelector('#biggify').addEventListener("mouseout", changeDinoWidth2);
 function changeDinoWidth2(){
-    document.querySelector('#biggify').style.width = '150px';
+    document.querySelector('#biggify').style.width = '162px';
 }  
 
 
